@@ -1,2 +1,3 @@
 # PRG310
 PRG310 Assignment
+DevOps improves software development by helping teams work together and make changes in a more organized way. It uses version control to keep track of changes so mistakes can be fixed easily and progress is not lost. DevOps also encourages developers and operations teams to share responsibility instead of working separately. Automation helps by testing and updating software automatically, which saves time and reduces errors. By focusing on small, frequent updates instead of large releases, DevOps makes software more reliable, easier to maintain, and faster to improve.
